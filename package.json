@@ -1,6 +1,5 @@
 {
-  "name": "with-typescript",
-  "version": "1.0.0",
+  "name": "ququlo",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -13,10 +12,16 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
+    "@kuma/eslint-config": "^1.6.3",
     "@types/node": "^12.12.21",
     "@types/react": "^16.9.16",
     "@types/react-dom": "^16.9.4",
     "typescript": "3.9.7"
   },
-  "license": "ISC"
+  "engines": {
+    "node": "14.7.0",
+    "yarn": "1.22.4"
+  },
+  "private": true,
+  "license": "UNKNOWN"
 }

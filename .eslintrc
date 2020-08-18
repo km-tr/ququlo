@@ -1,0 +1,3 @@
+{
+  "extends": "@kuma/eslint-config"
+}
