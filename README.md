@@ -1,4 +1,4 @@
 # QUQULO
 
-My Unknown Page.   
+My Unknown Page.  
 Next.js + Vercel.
