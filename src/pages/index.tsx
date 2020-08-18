@@ -1,5 +1,5 @@
-import Layout from 'components/Layout'
-import styles from './index.module.css'
+import Layout from 'src/components/Layout'
+import styles from 'src/pages/index.module.css'
 
 const IndexPage = () => (
   <Layout>
