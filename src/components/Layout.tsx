@@ -11,7 +11,7 @@ const Layout = ({ children, title = 'QUQULO' }: Props) => (
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
-      <meta name="viewport" content="width=device-width" />
+      <meta name="viewport" content="width=1024" />
     </Head>
     {children}
   </>
