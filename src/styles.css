@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+#__next {
+    display: flex;
+    height: 100%;
+}
