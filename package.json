@@ -13,12 +13,12 @@
   },
   "devDependencies": {
     "@kuma/eslint-config": "^1.6.4",
-    "@types/node": "^12.12.21",
-    "@types/react": "^16.9.16",
-    "@types/react-dom": "^16.9.4",
+    "@types/node": "12.12.70",
+    "@types/react": "16.9.56",
+    "@types/react-dom": "16.9.10",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "typescript": "3.9.7"
+    "lint-staged": "10.2.13",
+    "typescript": "3.9.9"
   },
   "engines": {
     "node": "^12.16.0",
